@@ -10,5 +10,5 @@ This is a final project that I did in class with 2 other team mates. I was in ch
 ### 3. Investigate the data
 ### 4. Build a word list with sentiment score (Using the wordlist as explanatory variables)
 ### 5. Use several method (Random Forest, SVM, and Neural Networks - nnet package) on validation set
-### 6. Pick the best model to test on train + validation set (70% + 30%) 
-### 7. Use the model for Test data 
+### 6. Pick the best model to run on train + validation set (70% + 30%) 
+### 7. Run the model on Test data 
